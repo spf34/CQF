@@ -1,0 +1,5 @@
+,Rolling,EWMA
+Breaches,25.0,32.0
+% Breaches,2.0508613617719442,2.6251025430680888
+Consec. Breaches,14.0,17.0
+Cond. Prob. Consec. Breach,0.56,0.53125
